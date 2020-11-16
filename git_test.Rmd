@@ -14,4 +14,8 @@ Hi there, nice work!
 
 Looks like we got this down! :)
 
+<<<<<<< HEAD
 Adding one line without pulling.
+=======
+Easy Peasy!
+>>>>>>> 62d7f887f137625f06a8904c6417eb130372cf2a
