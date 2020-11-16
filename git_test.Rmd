@@ -16,4 +16,7 @@ Looks like we got this down! :)
 
 Easy Peasy!
 
-Fixed an error message!
+
+I kind of missed the instructions, but I heard something about add one more line
+
+Fixed my error conflicts!
